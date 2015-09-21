@@ -1,0 +1,21 @@
+Partlist exported from R:/Electronica/_Proiecte/Sit.Up/SchematicPCB/V2/sit_up V2.sch at 07/09/2015 21:01
+
+Part  Value         Device             Package        Description                          MF MPN OC_FARNELL OC_NEWARK
+B1    TACT_SMD_THV2 TACT_SMD_THV2      TACT_6MM_SMD_2                                                                 
+BAT                 M02                02P            AMP QUICK CONNECTOR                         unknown    unknown  
+BUZZ  BUZZ          F/CM12P            F/CM12P        BUZZER Source: Buerklin                     unknown    unknown  
+C1    100u          CPOL-EU153CLV-0505 153CLV-0505    POLARIZED CAPACITOR, European symbol                            
+C2    100n          C-EUC0805          C0805          CAPACITOR, European symbol                                      
+C3    100n          C-EUC0805          C0805          CAPACITOR, European symbol                                      
+C16   100n          C-EUC0805          C0805          CAPACITOR, European symbol                                      
+ESP   ESP8266       PINHD-2X4          2X04           PIN HEADER                                                      
+ISP                 AVR-ISP-6VERT      AVR-ISP-6      AVR ISP-6 Serial Programming Header                             
+L1    10n           L-EUL2012C         L2012C         INDUCTOR, European symbol                                       
+LED1  red           LED3MM             LED3MM         LED                                                             
+LED2  green         LED3MM             LED3MM         LED                                                             
+LED3  blue          LED3MM             LED3MM         LED                                                             
+PORTA               MA05-2_PORT        MA05_PORT      PIN HEADER                                                      
+T1                  NMOSSOT23          SOT-23         MOS FET                                     unknown    unknown  
+TCH                 M02                02P            AMP QUICK CONNECTOR                         unknown    unknown  
+VIB                 M02                02P            AMP QUICK CONNECTOR                         unknown    unknown  
+XMEGA XMEGA         E5-TQFP            TQFP32                                                                         
